@@ -8,9 +8,13 @@
 About me:
 
 
+
+
 What I'm working on:
 
 Microsoft Software & Systems Academy
+
+💬 Wanna connect? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kyung-haug/)!
 
 <!--
 **kyungh/kyungh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
