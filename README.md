@@ -1,5 +1,4 @@
-## Hello! こんにちは! 안녕하세요!
-## My name is Kyung Haug!
+## Hello! こんにちは! 안녕하세요!  My name is Kyung Haug!
 
 About me:
 
