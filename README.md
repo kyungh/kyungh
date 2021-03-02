@@ -2,7 +2,7 @@
 
 `1: Console.WriteLine("My name is Kyung Haug!")`
 
-`2: Print('My name is Kyung Haug!')`
+`2: Print('Welcome to my Github page!')`
 
 
 About me:
