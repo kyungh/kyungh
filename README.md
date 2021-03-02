@@ -3,6 +3,9 @@
 About me:
 
 
+What I'm working on:
+Microsoft Software & Systems Academy
+
 <!--
 **kyungh/kyungh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
