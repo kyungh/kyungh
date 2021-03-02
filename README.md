@@ -1,5 +1,8 @@
-## Hi there 👋
-### Test
+## Hello! こんにちは! 안녕하세요!
+## My name is Kyung Haug!
+
+About me:
+
 
 <!--
 **kyungh/kyungh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
