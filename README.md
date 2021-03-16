@@ -12,10 +12,14 @@ About me:
 
 
 Favorite Programming Languages:
+
+
 C#, Python, JavaScript
 
 Languages:
-Egnlish (Native), Japanese (Intermediate), Korean (Basic)
+
+
+English (Native), Japanese (Intermediate), Korean (Basic)
 
 What I'm working on:
 
