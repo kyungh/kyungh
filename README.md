@@ -5,23 +5,23 @@
 `2: Print('Welcome to my GitHub page!')`
 
 
-About me:
+**About me:**
 
 
 
 
 
-Favorite Programming Languages:
+**Favorite Programming Languages:**
 
 
 C#, Python, JavaScript
 
-Languages:
+**Languages:**
 
 
 English (Native), Japanese (Intermediate), Korean (Basic)
 
-What I'm working on:
+**What I'm working on:**
 
 Microsoft Software & Systems Academy
 
