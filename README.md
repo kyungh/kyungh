@@ -7,7 +7,7 @@
 
 **About me:**
 
-
+Thanks for stopping by! My name is Kyung and this my little corner shop where I upload coding projects and learn new ways to implment code. Coding has really made a impact in my life as I really getting into it while leaving active duty from the Air Force. It was during this time I enrolled into the Microsoft Software and Systems Academy. I had to quickly the concepts and syntax to make sure I kept up with the program that I joined.
 
 
 
